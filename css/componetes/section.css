@@ -1,0 +1,17 @@
+.section-vitae{
+    background-image:url(../../img/porto-nacional.png); 
+    background-repeat: no-repeat;
+    background-size:cover; 
+}
+.section-filter{
+    background-color: rgba(0,0,0,0.6);
+}
+.section-exp{
+    background-image: url(../../img/books.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.section-curso{
+    background-color: #000;
+    padding: 2em 0;
+}

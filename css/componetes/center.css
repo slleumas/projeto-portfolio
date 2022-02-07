@@ -1,0 +1,22 @@
+.center{
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+}
+.center.-space{
+    justify-content: space-evenly;
+    padding: 8px;
+}
+.center.-spacelist{
+    justify-content: space-evenly;
+    padding: 8px;
+    padding: 5em 0;
+}
+.center-cusros{
+    padding-top: 2em;
+    justify-content: center;
+    display: flex;
+    background-image: url(../../img/circuito01.png);
+    background-size: contain;
+    
+}
