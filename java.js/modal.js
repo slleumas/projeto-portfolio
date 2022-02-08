@@ -176,3 +176,46 @@ iniciaModal('ilutjs10')
 })
 
 //--------- modal arte grafica ------//
+
+const montag01= document.querySelector('.mont01');
+montag01.addEventListener('click',function(){
+iniciaModal('montjs01')  
+})
+const montag02= document.querySelector('.mont02');
+montag02.addEventListener('click',function(){
+iniciaModal('montjs02')  
+})
+const montag03= document.querySelector('.mont03');
+montag03.addEventListener('click',function(){
+iniciaModal('montjs03')  
+})
+const montag04= document.querySelector('.mont04');
+montag04.addEventListener('click',function(){
+iniciaModal('montjs04')  
+})
+const montag05= document.querySelector('.mont05');
+montag05.addEventListener('click',function(){
+iniciaModal('montjs05')  
+})
+const montag06= document.querySelector('.mont06');
+montag06.addEventListener('click',function(){
+iniciaModal('montjs06')  
+})
+const montag07= document.querySelector('.mont07');
+montag07.addEventListener('click',function(){
+iniciaModal('montjs07')  
+})
+const montag08= document.querySelector('.mont08');
+montag08.addEventListener('click',function(){
+iniciaModal('montjs08')  
+})
+const montag09= document.querySelector('.mont09');
+montag09.addEventListener('click',function(){
+iniciaModal('montjs09')  
+})
+const montag10= document.querySelector('.mont10');
+montag10.addEventListener('click',function(){
+iniciaModal('montjs10')  
+})
+
+//--------- modal Arte Publicitária ------//
