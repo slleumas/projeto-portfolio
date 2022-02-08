@@ -131,3 +131,48 @@ const foto30= document.querySelector('.foto30');
 foto30.addEventListener('click',function(){
 iniciaModal('imgjs30')  
 })
+
+//--------- modal ilustração ------//
+
+const ilustra01= document.querySelector('.ilust01');
+ilustra01.addEventListener('click',function(){
+iniciaModal('ilutjs01')  
+})
+const ilustra02= document.querySelector('.ilust02');
+ilustra02.addEventListener('click',function(){
+iniciaModal('ilutjs02')  
+})
+const ilustra03= document.querySelector('.ilust03');
+ilustra03.addEventListener('click',function(){
+iniciaModal('ilutjs03')  
+})
+const ilustra04= document.querySelector('.ilust04');
+ilustra04.addEventListener('click',function(){
+iniciaModal('ilutjs04')  
+})
+const ilustra05= document.querySelector('.ilust05');
+ilustra05.addEventListener('click',function(){
+iniciaModal('ilutjs05')  
+})
+const ilustra06= document.querySelector('.ilust06');
+ilustra06.addEventListener('click',function(){
+iniciaModal('ilutjs06')  
+})
+const ilustra07= document.querySelector('.ilust07');
+ilustra07.addEventListener('click',function(){
+iniciaModal('ilutjs07')  
+})
+const ilustra08= document.querySelector('.ilust08');
+ilustra08.addEventListener('click',function(){
+iniciaModal('ilutjs08')  
+})
+const ilustra09= document.querySelector('.ilust09');
+ilustra09.addEventListener('click',function(){
+iniciaModal('ilutjs09')  
+})
+const ilustra10= document.querySelector('.ilust10');
+ilustra10.addEventListener('click',function(){
+iniciaModal('ilutjs10')  
+})
+
+//--------- modal arte grafica ------//
