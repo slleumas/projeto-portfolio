@@ -96,6 +96,24 @@
     display: flex;
     color: #fff;
     font-size: 1.5em;
-    margin: 1em;
-    
+    margin: 1em;  
+}
+.header-port{
+    background-color: #6a0f9e;
+}
+.section-port h3{
+    text-align: center;
+    font-style: italic;
+    font-weight: 200;
+    font-size: 2em;
+    color:#fff;
+}
+.header-port.-ilust{
+    background-color: #0f9e41;
+}
+.header-port.-art{
+    background-color: #9e960f;
+}
+.header-port.-pub{
+    background-color: #9e2a0f;
 }

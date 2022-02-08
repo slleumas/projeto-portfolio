@@ -1,0 +1,25 @@
+.conteiner-img{
+    width: 110px;
+    height: 110px;
+    color: #000;
+    overflow: hidden;
+    cursor: pointer;
+    box-sizing: border-box;
+   
+}
+.cont-img:hover{
+    transform: scale(1.1);
+}
+.cont-img02:hover{
+    transform: scale(1.1);
+}
+.cont-img{
+width: 100%;
+transform: scale(1.0);
+transition: 1s;
+}
+.cont-img02{
+height: 100%;
+transform: scale(1.0);
+transition: 1s;
+}
