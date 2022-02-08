@@ -117,3 +117,23 @@
 .header-port.-pub{
     background-color: #9e2a0f;
 }
+.container-cont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+.container-cont p{
+    font-size: 2em;
+    margin-right: 10px;
+}
+.container-cont a{
+    font-size: 2em;
+    margin-left: 10px;
+    color: #fff;
+}
+.container-cont img{
+    display: flex;
+    width: 20%;
+    height:fit-content;
+}
