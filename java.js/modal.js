@@ -219,3 +219,44 @@ iniciaModal('montjs10')
 })
 
 //--------- modal Arte Publicitária ------//
+
+const artepb01= document.querySelector('.arte01');
+artepb01.addEventListener('click',function(){
+iniciaModal('artjs01')  
+})
+const artepb02= document.querySelector('.arte02');
+artepb02.addEventListener('click',function(){
+iniciaModal('artjs02')  
+})
+const artepb03= document.querySelector('.arte03');
+artepb03.addEventListener('click',function(){
+iniciaModal('artjs03')  
+})
+const artepb04= document.querySelector('.arte04');
+artepb04.addEventListener('click',function(){
+iniciaModal('artjs04')  
+})
+const artepb05= document.querySelector('.arte05');
+artepb05.addEventListener('click',function(){
+iniciaModal('artjs05')  
+})
+const artepb06= document.querySelector('.arte06');
+artepb06.addEventListener('click',function(){
+iniciaModal('artjs06')  
+})
+const artepb07= document.querySelector('.arte07');
+artepb07.addEventListener('click',function(){
+iniciaModal('artjs07')  
+})
+const artepb08= document.querySelector('.arte08');
+artepb08.addEventListener('click',function(){
+iniciaModal('artjs08')  
+})
+const artepb09= document.querySelector('.arte09');
+artepb09.addEventListener('click',function(){
+iniciaModal('artjs09')  
+})
+const artepb10= document.querySelector('.arte10');
+artepb10.addEventListener('click',function(){
+iniciaModal('artjs10')  
+})
