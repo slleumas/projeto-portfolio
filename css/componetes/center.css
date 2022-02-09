@@ -4,6 +4,8 @@
     display: flex;
 }
 .center.-space{
+    display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     padding: 8px;
 }

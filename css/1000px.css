@@ -1,0 +1,11 @@
+@media screen and ( max-width:1000px) {
+.conteiner-img{
+    width: 135px;
+    height: 135px;
+}
+.center.-img{
+    justify-content: center;
+    max-width: 80%;
+    flex-wrap: wrap;
+}
+}

@@ -1,0 +1,16 @@
+@media screen and ( max-width:800px) {
+.conteiner-img{
+    width: 135px;
+    height: 135px;
+}
+.conteiner-cursos{
+    
+    transform: translateX(0);
+}
+
+.center.-img{
+    justify-content: center;
+    max-width: 80%;
+    flex-wrap: wrap;
+}
+}

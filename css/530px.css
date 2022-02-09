@@ -1,0 +1,113 @@
+@media screen and ( max-width:530px) {
+    .center.-spacelist{
+        display: block;
+        text-align: center;
+        padding: 5em 0;
+    }
+        .title{
+        font-size: 2.5em; 
+    }
+    .list{
+        color:#fff;
+        margin: 1em 0;
+        text-align: center;
+     }
+    .formacao{
+        display: block;
+        align-items: center;
+        padding: 2em;
+        text-align: center;
+        justify-content: center;
+        box-sizing: border-box;
+    }
+    .scroll-exp{
+        margin-top:2em ;
+        height: 200px;
+        overflow-y: scroll;
+        overflow-x: auto;
+        border-left: none ;
+    border-right: none ; 
+        border-top: #ff5400 solid 3px ;
+        border-bottom: #ff5400 solid 3px ; 
+        
+    }
+    .scroll-exp::-webkit-scrollbar{
+        width: 8px;
+        height:none;
+        border: #fff solid 1px;
+    }
+    .conteiner-cursos{
+        display: grid;
+        grid-template-columns:1fr;
+        transform: translateX(0);
+    }
+    .def-cursos{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: none;
+        
+    }
+    .def-cursos img{
+        display: flex;
+        max-width: 75px;
+        margin-bottom: 0.5em; 
+    }
+    .conteiner-exp{
+        display: block;
+        text-align: center;
+        padding: 0;
+        width: 100%;
+        height: 4800px;
+    }
+    .list-exp{
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+        color:#fff;
+        margin: 2em 2em 2em 2em;
+     }
+    .center-cont{
+        padding: 2em;
+        display: block;
+        text-align: center;
+        justify-content: center;
+    }
+    .cont-dados{
+        text-align: center;
+        padding: 0 2em 2em 2em;    
+    }
+    .container-cont{
+        padding: 1.5em 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        
+       
+    }
+    .container-cont img{
+        display: flex;
+        width: 60%;
+        height:fit-content;
+    }
+    .googlemaps{
+        width: 100%;
+    }
+    .cont-dados p{
+        font-size: 1em;
+        padding: 1em 0;
+    }
+    .a-dados.-fone{
+      font-size: 2em;
+        
+    }
+    .a-dados.-email{
+        font-size: 1.5em;
+        padding-bottom: 1em;
+    }
+    .footer p{
+        font-size: 1em;
+        font-weight: 200;
+    }
+        
+}
