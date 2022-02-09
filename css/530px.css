@@ -22,7 +22,7 @@
     }
     .scroll-exp{
         margin-top:2em ;
-        height: 200px;
+        height: 480px;
         overflow-y: scroll;
         overflow-x: auto;
         border-left: none ;
@@ -58,7 +58,7 @@
         text-align: center;
         padding: 0;
         width: 100%;
-        height: 4800px;
+        height: 2300px;
     }
     .list-exp{
         display: flex;
