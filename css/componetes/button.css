@@ -11,3 +11,16 @@
     background-color: orange;
     color: #000;
 }
+.button_gb{
+    color:#fff;
+    padding: 5px 20px;
+    border-radius: 3px;
+    background-color: #ff9e04;
+    text-transform: uppercase;
+    font-size: 2em;
+    font-weight: bold;
+}
+.button_gb:hover{
+    background-color: #08da97;
+    color: #fff;
+}
