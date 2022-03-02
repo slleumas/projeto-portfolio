@@ -169,7 +169,13 @@
 .a-dados:hover{
     color: #ff5400;
 }
-
+.clickaction{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    display: none;
+    font-weight: lighter;
+}
 .footer{
     background-color:#919191;
     color: #cecece;
